@@ -1,0 +1,45 @@
+========POMOC========
+
+Mozesz poruszac sie za pomoca strzalek
+Aby wejsc do budynku stojac przed nim sprobuj w niego wjechac
+(stojac pod nim kliknij strzalke w gore)
+
+=====================
+
+Nacisnij dowolny przycisk aby kontynuowac.
+
+========BLACK JACK========
+
+Karty maja swoje wartosci, Twoja liczba punktow to suma wartosci kart na Twojej rece.
+Wygrywa gracz ktorego liczba punktow bedzie najblizej do 21.
+Jesli przekroczysz prog 21 punktow odpadasz.
+Dotychczasowa liczbe Twoich punktow i pozostala Ci dzis stamine masz wypisana na samej gorze podczas gry.
+
+wartosci kart:
+2-10 - wartosc cyfry na karcie
+Walet (J) - 10
+Dama (Q) - 10
+Krol (K) - 10
+As (A) - 1 lub 11
+
+Oprocz Ciebie przy stole gra krupier, ktory obstawia tyle ile Ty, osoba wygrana zgarnia wszystko.
+Jesli oboje przegracie lub skonczycie z takim samym wynikiem, pieniadze wracaja do Twojej kieszeni.
+
+==========================
+
+Nacisnij dowolny przycisk aby kontynuowac.
+
+========RULETKA========
+
+Ruletka ma 37 pol podzielonyh na 3 kategorie, 18 pol czarnych, 18 pol czerwonych i 1 pole zielone.
+Mozesz postawic na dowolny kolor. Jesli wygrasz stawiajac na:
+- czarne, dostaniesz 200% postawoinej stawki (2 x stawka)
+- czerwone, dostaniesz 200% postawoinej stawki (2 x stawka)
+- zielone, dostaniesz 3700% postawoinej stawki (37 x stawka)
+
+Jesli nie trafisz, tracisz pieniadze.
+
+=======================
+
+Nacisnij dowolny przycisk aby kontynuowac.
+
