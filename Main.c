@@ -106,13 +106,13 @@ int main()
 		case 'C':
 			if (stamina <= 0)
 			{
-				casino();
-			}
-			else
-			{
 				printf("Masz za malo energii aby grac w kasynie, jedz do domu sie wyspac!\n");
 				printf("\nNacisnij cokolwiek aby kontynuowac.\n");
 				_getch();
+			}
+			else
+			{
+				casino();
 			}
 			break;
 		}
@@ -404,7 +404,7 @@ int house()
 	}
 	else
 	{
-		printf("Jeszcze nie jestes na tyle zmeczony zeby isc spac, Wroc tu jak bedziesz mial 0 jednostek energii.");
+		printf("Jeszcze nie jestes na tyle zmeczony zeby isc spac, Wroc tu jak bedziesz mial 0 jednostek energii.\n");
 		system("pause");
 	}
 	return 0;
