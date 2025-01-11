@@ -2,7 +2,7 @@
 Mój projekt gry tekstowej na Przedmio Technologie Informacyjne.
 Niestety projekt ten nie zadziała na mac os i linuxie, ponieważ użyłem komendy system("cls");.
 Zrobiłem to dla czytelności, nieraz w moim programie na ekranie wyświetla się wiele danych i nie chciałem aby nowa "klatka" gry mieszała się z inną.
-Poniżej znajduj,a się schematy blokowe wszystkich funkcji:
+Poniżej znajdują się schematy blokowe wszystkich funkcji:
 
 
 ![main](https://github.com/user-attachments/assets/28f472d9-e9fc-4651-8fad-eeaf75d45cb6)
@@ -18,3 +18,5 @@ move():
 ![blackjack](https://github.com/user-attachments/assets/d7a1e6ed-ba4b-4ab9-aff4-84fae3f81917)
 ![blackjackRound](https://github.com/user-attachments/assets/58cbddd1-34ba-4512-950b-94b392e5da06)
 ![reulette](https://github.com/user-attachments/assets/cfc2da1f-e781-40bb-8dec-a08ea878084c)
+![blackjackIsWinned](https://github.com/user-attachments/assets/4b6b7370-df73-45cc-ba1d-e8df599481a3)
+![blackjackPickCard](https://github.com/user-attachments/assets/dab70c4a-fc54-45a0-a751-376df8a61e51)
